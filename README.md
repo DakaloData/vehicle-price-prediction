@@ -3,7 +3,7 @@
 
 An end-to-end machine learning project that predicts the selling price of a used car from its age, engine size, power, fuel efficiency, brand, fuel type and transmission, and serves the model through an interactive Streamlit app.
 
-Built as the major project for a Postgraduate Diploma in Data Science.
+Built as a portfolio project while studying for a Postgraduate Diploma in Data Science.
 
 ## Results
 
